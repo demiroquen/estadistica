@@ -15,3 +15,5 @@ LaTeX: pdfLaTeX
 PythonType: conda
 PythonVersion: 3.11.9
 PythonPath: C:/Users/roque/.conda/envs/estadistica/python.exe
+
+SpellingDictionary: es_ES
